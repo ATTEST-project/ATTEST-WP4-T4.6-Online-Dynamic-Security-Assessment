@@ -1,0 +1,25 @@
+/Nr. of OPs to be tested
+1
+
+/Nr. of ANNs to be used = Nr. of contingencies/disturbances to be evaluated
+1
+
+/Nr. of ANN Input Vars
+6
+
+/Nr. of ANN Output Vars
+2
+
+/Min. and Max. values of the ANN Vars to be used by the Standardization method during the running process of the tool
+/ Data gathered from the training  dataset
+,,,Min. Value,Max. Value
+ANN1,Input Var1,SGs_Total_Pgen (MW),1000.72,3842.75
+ANN1,Input Var2,WFs_Total_Pgen (MW),0.00,2500.00
+ANN1,Input Var3,H_SC1_Bus34 (s),0.00,866.40
+ANN1,Input Var4,H_SC2_Bus37 (s),0.00,1619.80
+ANN1,Input Var5,H_SC3_Bus38 (s),0.00,2300.00
+ANN1,Input Var6,Total_H_SMs  (s),20890.30,34790.00
+ANN1,Output Var1,RoCoF (Hz/s),0.159737745,1.835981286
+ANN1,Output Var2,nadir (max. deviation to Fn) (Hz),0.057258479,1.017362684
+/…,/…,/…,/…,/…
+/Fill in next rows using the same formatting if more ANNs are considered

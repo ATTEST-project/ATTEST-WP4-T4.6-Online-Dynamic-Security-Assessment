@@ -1,0 +1,5 @@
+OP Id, Estimated RoCoF (Hz/s), Estimated nadir (deviation to the Nominal Freq.) (Hz), OP Secure?, SC(s) needed to ensure security for one contingency (see Id), Estimated RoCoF (Hz/s) with SCs, Estimated nadir with SC(s) (deviation to the Nominal Freq.) (Hz)
+1, 1.7876077, 0.97718126, No, SC3_bus38, 0.95518833, 0.5667898
+SC(s) needed to ensure system security for all contingencies /disturbances
+SC3_bus38
+
